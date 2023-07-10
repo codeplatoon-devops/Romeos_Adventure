@@ -1,6 +1,6 @@
 import { Button } from "@mui/material"
 import './map.css'
-import{ STAGES } from '../../components/Stages'
+import{ STAGES } from '../../Components/Stages'
 import { useEffect } from "react"
 
 
